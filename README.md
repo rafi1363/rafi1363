@@ -109,26 +109,5 @@
  </tr>
 </table>
 
-## Connect With Me :
-
-<a href="https://www.linkedin.com/in/arfindwioctavianto" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a>
-
-<h1 align="center">Github Stats</h1>
-<p align="center">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfindwio&show_icons=true&layout=compact&theme=tokyonight" alt="arfindwio" />
-<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=arfindwio&show_icons=true&theme=tokyonight&layout=compact" />
-</p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<p align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=arfindwio&theme=tokyonight" />
-</p>
-
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfindwio&theme=tokyonight)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=arfindwio&theme=tokyonight" alt="GitHub Streak" /></a> 
--->
-
 ---
 

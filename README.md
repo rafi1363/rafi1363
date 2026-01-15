@@ -7,7 +7,7 @@
   <a href="https://instagram.com/mancc.rv">
     <img src="https://img.shields.io/badge/Design_Portfolio-mancc.rv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:muhammadrafizuhairartadinata@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 

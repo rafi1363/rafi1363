@@ -35,7 +35,7 @@ I'm a **Developer** with a strong passion for **Graphic Design**. I bridge the g
 <br/><br/>
 
 **Frontend & Design**<br/>
-<img src="https://skillicons.dev/icons?i=react,laravel,astrojs,vuejs,nextjs,tailwind,bootstrap,vite,html,css,figma,ps" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,laravel,astro,vuejs,nextjs,tailwind,bootstrap,vite,html,css,figma,ps" alt="Frontend" />
 
 <br/><br/>
 

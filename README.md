@@ -46,12 +46,12 @@ I'm a **Full Stack Developer** with a strong passion for **Graphic Design**. I b
 
 ---
 
-### 📊 GitHub Stats
+
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafi1363&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi1363&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="180" />
-</div> -->
+</div>  -->
 
 <br/>
 

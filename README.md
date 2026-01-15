@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://instagram.com/ra_phi.13">
-    <img src="https://img.shields.io/badge/Design_Portfolio-mancc.rv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Design_Portfolio-ra_phi.13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:muhammadrafizuhairartadinata@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />

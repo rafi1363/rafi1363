@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <a href="https://instagram.com/mancc.rv">
+  <a href="https://instagram.com/ra_phi.13">
     <img src="https://img.shields.io/badge/Design_Portfolio-mancc.rv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:muhammadrafizuhairartadinata@gmail.com">
@@ -48,10 +48,10 @@ I'm a **Full Stack Developer** with a strong passion for **Graphic Design**. I b
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafi1363&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi1363&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="180" />
-</div>
+</div> -->
 
 <br/>
 

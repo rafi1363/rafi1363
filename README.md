@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi1363&theme=tokyonight" alt="rafi1363"  /></a>
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi1363&theme=tokyonight" alt="rafi1363"  /></a> -->
 </p>
 
 <p align="center">

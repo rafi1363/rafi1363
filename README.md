@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://instagram.com/ra_phi.13">
-    <img src="https://img.shields.io/badge/Design_Portfolio-ra_phi.13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Design_Portfolio-ズハイル、ラフィ-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:muhammadrafizuhairartadinata@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -29,24 +29,22 @@ I'm a **Developer** with a strong passion for **Graphic Design**. I bridge the g
 
 <div align="center">
 
-  **Backend & Database**<br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,prisma,postman" alt="Backend" />
-  
-  <br/><br/>
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,prisma,postman" alt="Backend" />
 
-  **Frontend & Design**<br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css,figma,ps" alt="Frontend" />
-  
-  <br/><br/>
+<br/><br/>
 
-  **Tools & Version Control**<br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" alt="Tools" />
+**Frontend & Design**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css,figma,ps" alt="Frontend" />
+
+<br/><br/>
+
+**Tools & Version Control**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
 
 </div>
 
 ---
-
-
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafi1363&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180" />

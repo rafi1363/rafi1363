@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with a strong passion for **Graphic Design**. I bridge the gap between robust backend logic and clean, aesthetic frontend experiences.
+I'm a **Developer** with a strong passion for **Graphic Design**. I bridge the gap between robust backend logic and clean, aesthetic frontend experiences.
 
 - 🔭 **Current Focus:** transitioning from the MERN ecosystem to high-performance enterprise backends using **Java SpringBoot**.
 - 🎨 **Creative Side:** I create Anime/Game GFX and explore Swiss Style design in my free time.

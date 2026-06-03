@@ -1,62 +1,77 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=0E75B6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi!+I'm+Muhammad+Rafi;Full+Stack+Developer;Graphic+Design+Enthusiast;Building+Scalable+Backends" alt="Typing SVG" />
-</h1>
+# Muhammad Rafi Zuhair Artadinata
 
-<div align="center">
-  
-  <a href="https://instagram.com/ra_phi.13">
-    <img src="https://img.shields.io/badge/ズハイル、ラフィ-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:muhammadrafizuhairartadinata@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+**IT Infrastructure & Operations | Linux | Networking | Security Fundamentals**
 
-</div>
-
-<br />
-
-### 👨‍💻 About Me
-
-I'm a **Developer** with a strong passion for **Graphic Design**. I bridge the gap between robust backend logic and clean, aesthetic frontend experiences.
-
-- 🔭 **Current Focus:** transitioning from the MERN ecosystem to high-performance enterprise backends using **Java SpringBoot**.
-- 🎨 **Creative Side:** I create Anime/Game GFX and explore Swiss Style design in my free time.
-- 💻 **Currently Learning:** Deepening knowledge in DevOps (Docker/CI/CD) and Microservices architecture.
+Jakarta, Indonesia · [LinkedIn](https://www.linkedin.com/in/muhammad-rafi-zuhair-artadinata/) · muhammadrafizuhairartadinata@gmail.com
 
 ---
 
-### 🛠️ Languages & Tools
+## About
 
-<div align="center">
+S.Kom. graduate in Information Technology, currently building hands-on skills in Linux server administration, networking, and IT infrastructure.
 
-**Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=redis,nginx,python,typescript,php,laravel,nodejs,express,mysql,postgres,prisma,postman" alt="Backend" />
+Background in backend development — I understand how applications work from the inside, which helps when diagnosing service failures, reading logs, and troubleshooting infrastructure issues.
 
-<br/><br/>
+Currently focused on:
+- Linux system administration (daily driver: Linux Mint)
+- NGINX configuration and reverse proxy setup
+- SSH hardening and firewall management
+- Networking fundamentals (TCP/IP, ports, bind address, DNS basics)
+- Pursuing Fortinet FCF certification
 
-**Frontend & Design**<br/>
-<img src="https://skillicons.dev/icons?i=react,laravel,astro,vuejs,nextjs,tailwind,bootstrap,vite,html,css,figma,ps" alt="Frontend" />
-
-<br/><br/>
-
-**Tools & Version Control**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools" />
-
-</div>
+Target roles: **IT Operator · NOC · Junior Sysadmin · IT Support**
 
 ---
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafi1363&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi1363&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" height="180" />
-</div>  -->
+## Lab Work
 
-<br/>
+Most of my current work is in [`linux-ops-lab`](https://github.com/rafi1363/linux-ops-lab) — a self-directed infrastructure lab covering real configurations, real troubleshooting, and documented reasoning behind each decision.
 
-<p align="center">
-  <img src="https://github.com/arfindwio/arfindwio/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
+Labs completed:
+- NGINX reverse proxy with Node.js backend (bind address isolation, proxy headers, 502 debugging)
+- SSH hardening (PermitRootLogin, MaxAuthTries, sshd -T verification)
+- UFW firewall configuration (default deny, rule scoping, subnet-restricted access)
+- Networking fundamentals (127.0.0.1 vs 0.0.0.0, interface binding, LAN access)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arfindwio&label=Profile%20Views&color=0e75b6&style=flat-square" alt="arfindwio" />
-</p>
+---
+
+## Technical Background
+
+**Infrastructure & OS**
+Linux (Mint/Ubuntu), NGINX, SSH, UFW/Firewall, systemctl, service management, Bash
+
+**Networking**
+TCP/IP, HTTP/S, IP addressing, ports, bind address, basic DNS
+
+**Development (supporting knowledge)**
+Node.js, Express.js, JavaScript, Docker, REST API, MySQL, PostgreSQL
+
+**Tools**
+Git, GitHub, Postman, log analysis (nginx access/error log, journalctl)
+
+---
+
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Introduction to Cybersecurity | Cisco Networking Academy | Jun 2026 |
+| Fortinet Certified Fundamentals (FCF) | Fortinet | In Progress |
+| Big Data Analyst | Rakamin Academy (Kimia Farma) | Mar 2025 |
+| Junior Web Developer | Digitalent Kominfo | Aug 2023 |
+
+---
+
+## Work Experience
+
+**Backend Developer (Outsource)** — DaNS Multi Pro · Feb–May 2026
+Bug fixing and backend maintenance using Node.js stack.
+Identified and resolved service issues through log analysis
+and collaboration with senior engineers.
+
+**Backend Developer Bootcamp** — DaNS Multi Pro · Dec 2025–Jan 2026
+Built two backend projects: Warehouse Management System (RBAC, REST API, MySQL) and B2B Dropship Platform (queue mechanism, order lifecycle).
+
+---
+
+*This profile is updated as I complete new labs and certifications.*
